@@ -1,4 +1,3 @@
-````md
 # AI Employee Force
 
 Enterprise AI workforce platform built as a **multi-repo GitHub organization** so multiple teams can independently build, release, and scale platform modules and AI employees.
